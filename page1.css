@@ -1,0 +1,48 @@
+#titre{
+	margin-top: 35px;
+	margin-bottom: 30px;
+	border: 1px solid black;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 100px;
+}
+
+th{
+	color: white;
+	background-color: #353E4F;
+	padding-right: 15px;
+	text-align: left;
+}
+
+.equipe{
+	padding-left: 15px;
+}
+
+table{
+	border: 0px;
+	border-collapse: collapse;
+	border-color: white;
+	background-color: white;
+	width: fit-content;
+}
+
+.equipe{
+	text-align: right;
+}
+
+tr:nth-child(odd) {
+	background-color: #d6d6d6;
+}
+
+.scrollable-div {
+	height: 480px;
+	overflow-y: auto;
+	scrollbar-color : black;
+}
+
+div{
+	width: fit-content;
+	margin-left: auto;
+	margin-right: auto;
+}
+
